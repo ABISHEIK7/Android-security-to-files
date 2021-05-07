@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_blue1.xml.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable\\btn_blue1.xml"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_red.xml.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right.jpg.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable\\right.jpg"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_orange.xml.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable\\btn_orange.xml"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_list.xml.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\layout\\file_list.xml"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wrong.jpg.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable\\wrong.jpg"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appa_icon.png.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable\\appa_icon.png"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_blue.xml.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable\\btn_blue.xml"
+    },
+    {
+        "merged": "I:\\app malware\\1 App B\\app\\build\\intermediates\\res\\merged\\debug\\drawable_question.png.flat",
+        "source": "I:\\app malware\\1 App B\\app\\src\\main\\res\\drawable\\question.png"
+    }
+]

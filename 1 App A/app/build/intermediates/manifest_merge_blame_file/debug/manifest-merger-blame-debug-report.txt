@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.appa"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:6:5-47
+8        android:minSdkVersion="8"
+8-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:6:5-47
+9        android:targetSdkVersion="15" />
+9-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:6:15-44
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:8:5-97
+11-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:8:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:9:5-96
+12-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:9:22-77
+13    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+13-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:10:5-71
+13-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:10:22-68
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:11:5-67
+14-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:11:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:12:5-79
+15-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:12:22-76
+16
+17    <application
+17-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:14:5-32:19
+18        android:debuggable="true"
+19        android:icon="@drawable/ic_launcher"
+19-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:15:9-45
+20        android:label="@string/app_name"
+20-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:16:9-41
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:17:9-40
+23        <activity android:name="com.example.appa.LoginActivity" >
+23-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:18:9-25:20
+23-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:19:13-42
+24            <intent-filter>
+24-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:20:13-24:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:21:17-69
+25-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:21:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:23:17-77
+27-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:23:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.example.appa.AddPermission" />
+30-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:27:9-50
+30-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:27:19-48
+31        <activity android:name="com.example.appa.RemovePermission" />
+31-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:28:9-53
+31-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:28:19-51
+32        <activity android:name="com.example.appa.HomeActivity" />
+32-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:29:9-49
+32-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:29:19-47
+33        <activity android:name="com.example.appa.GivePermission" />
+33-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:30:9-51
+33-->I:\app malware\1 App A\app\src\main\AndroidManifest.xml:30:19-49
+34    </application>
+35
+36</manifest>
